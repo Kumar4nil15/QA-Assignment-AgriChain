@@ -1,5 +1,5 @@
 ## Test Cases for the Website (https://agrichain.com)
-<br>Manual Test Cases
+**<br>Manual Test Cases**
 <br>1.	UI & Usability Testing
 <br>o	Verify that the home page loads correctly with the input field and submit button.
 <br>o	Check the alignment and visibility of all UI elements on different screen sizes.
